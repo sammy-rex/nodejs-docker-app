@@ -79,7 +79,7 @@ The Docker image was successfully built using the following command:
 
 ### Docker Image Build Screenshot
 
-![Docker Image Build](screenshots/Screenshot%201.png)
+![Docker Image Build](screenshots/docker-build.png)
 
 ## 6. Docker Hub Image
 
@@ -101,7 +101,7 @@ The Docker image was successfully pulled from Docker Hub using:
 
 ### Docker Hub Pull Screenshot
 
-![Docker Hub Pull](screenshots/docker-hub%202.png)
+![Docker Hub Pull](screenshots/docker-pull.png)
 
 ## 8. Running Docker Container
 
@@ -115,7 +115,7 @@ The running container was verified using:
 
 ### Running Docker Container Screenshot
 
-![Running Docker Container](screenshots/Screenshot%203.png)
+![Running Docker Container](screenshots/docker-container.png)
 
 ## 9. Live Application
 
@@ -127,7 +127,7 @@ http://86.112.0.158:3000
 
 ### Live Application Screenshot
 
-![Live Application](screenshots/node%20project.png)
+![Live Application](screenshots/live-app.png)
 
 ## Conclusion
 
