@@ -91,7 +91,7 @@ Docker Hub image:
 
 ### Docker Hub Screenshot
 
-![Docker Hub Image](screenshots/docker-hub-login.png)
+![Docker Hub Image](screenshots/docker-hub.png)
 
 ## 7. Pull Image from Docker Hub
 
